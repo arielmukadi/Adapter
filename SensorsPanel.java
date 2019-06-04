@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 import javax.swing.JPanel;
-
+//This is good, well done
 public class SensorsPanel extends JPanel{
 		
 		String status;
